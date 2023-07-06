@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"img": "https://i.pinimg.com/originals/f4/7e/29/f47e29ea9caa12afdfe0b9f4ab8d7c7a.jpg",
+		"nameProduct": "Turron",
+		"price": 30,
+        "stock":6
+	},
+	{
+		"id": 2,
+		"img": "https://i.pinimg.com/originals/f4/7e/29/f47e29ea9caa12afdfe0b9f4ab8d7c7a.jpg",
+		"nameProduct": "Tatin",
+		"price": 120,
+		"stock": 10
+	},
+	{
+		"id": 3,
+		"img": "https://scontent.fcnq4-1.fna.fbcdn.net/v/t1.6435-9/96421548_1478950342311046_4868820461988872192_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=05ETLItiTCsAX9uwqLz&_nc_ht=scontent.fcnq4-1.fna&oh=00_AfA63UvOhrv4kD3NCUza_D5WfH509vyIH9lZiUmflC4EQQ&oe=64A6A1F5",
+		"nameProduct": "Pebete",
+		"price": 350,
+		"stock": 15
+	},
+	{
+		"id": 4,
+		"img": "https://i.pinimg.com/originals/f4/7e/29/f47e29ea9caa12afdfe0b9f4ab8d7c7a.jpg",
+		"nameProduct": "Caramelos",
+		"price": 30,
+		"stock": 200
+	},
+	{
+		"id": 5,
+		"img": "https://i.pinimg.com/originals/f4/7e/29/f47e29ea9caa12afdfe0b9f4ab8d7c7a.jpg",
+		"nameProduct": "Yogurt",
+		"price": 120,
+		"stock": 10
+	},
+    {
+		"id": 6,
+		"img": "https://http2.mlstatic.com/D_NQ_NP_697028-MLA49196152298_022022-O.webp",
+		"nameProduct": "Baggio",
+		"price": 350,
+		"stock": 15
+	}
+]
